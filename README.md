@@ -1,8 +1,34 @@
-# TuttiGliAppunti
+<h1 align="center">TuttiGliAppunti</h1>
+
+<p align="center">
+  Raccolta personale di appunti universitari, esercizi, schemi e materiali di supporto
+</p>
+
+<p align="center">
+  Un archivio di studio pratico, selettivo e in continua evoluzione
+</p>
+
+---
 
 Raccolta personale di appunti, esercizi, schemi e materiali di supporto costruita durante il mio percorso universitario in ingegneria.
 
 Questa repository non vuole essere un archivio perfettamente uniforme, ma una libreria di studio concreta: contiene dispense selezionate, riassunti, esercizi svolti, materiale d'esame e file di approfondimento che ho raccolto e organizzato nel tempo.
+
+## Indice
+
+- [Visione generale](#visione-generale)
+- [Idea del progetto](#idea-del-progetto)
+- [Cosa contiene](#cosa-contiene)
+- [Struttura della repository](#struttura-della-repository)
+- [Come leggere la raccolta](#come-leggere-la-raccolta)
+- [Disclaimer](#disclaimer)
+- [Nota finale](#nota-finale)
+
+## Visione generale
+
+Questa repo nasce come spazio personale di organizzazione dello studio. Non raccoglie soltanto teoria, ma anche esercizi, file tecnici, materiali di laboratorio e contenuti utili per il ripasso operativo.
+
+L'idea centrale non e accumulare tutto in modo indistinto, ma conservare cio che nel tempo si e rivelato davvero utile per comprendere meglio i corsi e preparare gli esami con piu ordine.
 
 ## Idea del progetto
 
@@ -115,7 +141,7 @@ TuttiGliAppunti/
 └── README.md
 ```
 
-## Filosofia della raccolta
+## Come leggere la raccolta
 
 Questi appunti non nascono come prodotto editoriale, ma come strumento di studio reale. Per questo il repository mantiene una natura molto concreta:
 
@@ -125,8 +151,31 @@ Questi appunti non nascono come prodotto editoriale, ma come strumento di studio
 
 L'idea non e quella di mostrare "tutto", ma di valorizzare i materiali che nel tempo si sono rivelati davvero utili.
 
+Per una prima esplorazione, le sezioni piu rappresentative sono:
+
+- `Database`
+- `Controlli`
+- `Calcolatori_Elettronici`
+- `Sistemi_Operativi`
+- `Telecomunicazioni`
+
+Queste cartelle offrono gia una visione abbastanza chiara del taglio della raccolta: teoria, applicazione, esercizi e materiali d'esame.
+
+## Disclaimer
+
+Questa repository e in aggiornamento continuo.
+
+Il contenuto potra cambiare nel tempo attraverso:
+
+- aggiunta di nuovi appunti
+- riorganizzazione delle cartelle
+- inserimento di esercizi, PDF, codici e materiali integrativi
+- miglioramento progressivo della struttura generale
+
+Di conseguenza, alcune sezioni possono risultare piu complete di altre, e l'archivio non va interpretato come una raccolta definitiva o conclusa.
+
 ## Nota finale
 
 Questa repository rappresenta una parte significativa del mio percorso universitario e del mio modo di studiare: selettivo, operativo e costruito nel tempo.
 
-Se stai esplorando il repository, il consiglio e partire dalle cartelle piu strutturate, come `Database`, `Controlli`, `Calcolatori_Elettronici` e `Telecomunicazioni`, che offrono gia una visione abbastanza chiara del taglio della raccolta.
+Se stai esplorando il repository, il consiglio e partire dalle cartelle piu strutturate e poi seguire l'evoluzione dell'archivio nel tempo.
