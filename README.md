@@ -1,6 +1,14 @@
 <h1 align="center">StudyHub</h1>
 
 <p align="center">
+  <em>
+    Sono uno studente appassionato e ho impiegato anni per costruire questa raccolta di appunti, esercizi e materiali di studio.
+    Spero possa essere utile a chiunque la consulti, sia per il ripasso sia per approfondire alcuni argomenti del percorso universitario.
+    Se dovessi notare imprecisioni, sviste o possibili miglioramenti, ogni feedback sarà per me davvero prezioso.
+  </em>
+</p>
+
+<p align="center">
   Raccolta personale di appunti universitari, esercizi, schemi e materiali di supporto
 </p>
 
