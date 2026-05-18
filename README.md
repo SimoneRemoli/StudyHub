@@ -1,4 +1,4 @@
-<h1 align="center">TuttiGliAppunti</h1>
+<h1 align="center">StudyHub</h1>
 
 <p align="center">
   Raccolta personale di appunti universitari, esercizi, schemi e materiali di supporto
