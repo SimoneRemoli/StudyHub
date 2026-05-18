@@ -9,6 +9,17 @@
 </p>
 
 <p align="center">
+  <a href="https://web.uniroma2.it/">
+    <img src="https://medsper.uniroma2.it/wp-content/uploads/cinque_per_mille.png" alt="Logo Università degli Studi di Roma Tor Vergata" width="140">
+  </a>
+</p>
+
+<p align="center">
+  Corso di Laurea in Ingegneria Informatica<br>
+  Università degli Studi di Roma Tor Vergata
+</p>
+
+<p align="center">
   <img alt="Repository status" src="https://img.shields.io/badge/status-in%20aggiornamento-0a7ea4">
   <img alt="Type" src="https://img.shields.io/badge/contenuto-appunti%20universitari-1f6f43">
   <img alt="Language" src="https://img.shields.io/badge/lingua-italiano-b85c38">
@@ -16,7 +27,7 @@
 
 ---
 
-Raccolta personale di appunti, esercizi, schemi e materiali di supporto costruita durante il mio percorso universitario in ingegneria.
+Raccolta personale di appunti, esercizi, schemi e materiali di supporto costruita durante il mio percorso nel Corso di Laurea in Ingegneria Informatica presso l'Università degli Studi di Roma Tor Vergata.
 
 Questa repository non vuole essere un archivio perfettamente uniforme, ma una libreria di studio concreta: contiene dispense selezionate, riassunti, esercizi svolti, materiale d’esame e file di approfondimento che ho raccolto e organizzato nel tempo.
 
