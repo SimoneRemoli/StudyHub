@@ -1,25 +1,17 @@
+<p align="center">
+  <a href="https://web.uniroma2.it/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo-Universita-Roma-Tor-Vergata.png" alt="Logo Università degli Studi di Roma Tor Vergata" width="150">
+  </a>
+</p>
+
 <h1 align="center">StudyHub</h1>
 
 <p align="center">
-  <em>
-    Sono uno studente appassionato e ho impiegato anni per costruire questa raccolta di appunti, esercizi e materiali di studio.
-    Spero possa essere utile a chiunque la consulti, sia per il ripasso sia per approfondire alcuni argomenti del percorso universitario.
-    Se dovessi notare imprecisioni, sviste o possibili miglioramenti, ogni feedback sarà per me davvero prezioso.
-  </em>
-</p>
-
-<p align="center">
-  Raccolta personale di appunti universitari, esercizi, schemi e materiali di supporto
+  <strong>Raccolta personale di appunti universitari, esercizi, schemi e materiali di supporto</strong>
 </p>
 
 <p align="center">
   Un archivio di studio pratico, selettivo e in continua evoluzione
-</p>
-
-<p align="center">
-  <a href="https://web.uniroma2.it/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo-Universita-Roma-Tor-Vergata.png" alt="Logo Università degli Studi di Roma Tor Vergata" width="140">
-  </a>
 </p>
 
 <p align="center">
@@ -31,6 +23,21 @@
   <img alt="Repository status" src="https://img.shields.io/badge/status-in%20aggiornamento-0a7ea4">
   <img alt="Type" src="https://img.shields.io/badge/contenuto-appunti%20universitari-1f6f43">
   <img alt="Language" src="https://img.shields.io/badge/lingua-italiano-b85c38">
+</p>
+
+---
+
+<p align="center">
+  <em>
+    Sono uno studente appassionato e ho impiegato anni per costruire questa raccolta di appunti, esercizi e materiali di studio.
+  </em>
+</p>
+
+<p align="center">
+  <em>
+    Spero possa essere utile a chiunque la consulti, sia per il ripasso sia per approfondire alcuni argomenti del percorso universitario.
+    Se dovessi notare imprecisioni, sviste o possibili miglioramenti, ogni feedback sarà per me davvero prezioso.
+  </em>
 </p>
 
 ---
