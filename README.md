@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://web.uniroma2.it/">
-    <img src="https://medsper.uniroma2.it/wp-content/uploads/cinque_per_mille.png" alt="Logo Università degli Studi di Roma Tor Vergata" width="140">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo-Universita-Roma-Tor-Vergata.png" alt="Logo Università degli Studi di Roma Tor Vergata" width="140">
   </a>
 </p>
 
